@@ -35,12 +35,12 @@ layers:
   - ','
   - .
   - /
-  - LCTRL
-  - LEFT WIN
+  - {t: LANGUAGE 2, h: LCTRL}
+  - {t: LANGUAGE 1, h: LEFT WIN}
   - LEFT ALT
-  - {t: LANGUAGE 2, h: '3'}
+  - {t: MUHENKAN, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: LANGUAGE 1, h: '1'}
+  - {t: HENKAN, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
