@@ -35,8 +35,8 @@ layers:
   - ','
   - .
   - /
-  - {t: EISU, h: LCTRL}
-  - {t: KANA, h: LGUI}
+  - LCTRL
+  - LGUI
   - LEFT ALT
   - {t: MUHENKAN, h: '3'}
   - {t: SPACE, h: '2'}
