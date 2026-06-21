@@ -174,7 +174,6 @@
             bindings = <&mo>, <&to_layer_0>;
 
             #binding-cells = <2>;
-            tapping-term-ms = <200>;
             flavor = "hold-preferred";  // 長押しを少し強めに優先
             tapping-term-ms = <1000>;    // 長押し判定（好みに応じて200〜300で調整）
             quick-tap-ms = <900>;      // タップ+長押しでリピートさせる時間
