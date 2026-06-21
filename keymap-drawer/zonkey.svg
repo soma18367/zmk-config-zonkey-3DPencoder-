@@ -474,13 +474,11 @@ path.combo {
 </g>
 <g transform="translate(28, 196)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">EISU</text>
-<text x="0" y="24" class="key hold">LCTRL</text>
+<text x="0" y="0" class="key tap">LCTRL</text>
 </g>
 <g transform="translate(84, 196)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">KANA</text>
-<text x="0" y="24" class="key hold">LGUI</text>
+<text x="0" y="0" class="key tap">LGUI</text>
 </g>
 <g transform="translate(140, 196)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -683,13 +681,11 @@ path.combo {
 </g>
 <g transform="translate(28, 196)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">EISU</text>
-<text x="0" y="24" class="key hold">LCTRL</text>
+<text x="0" y="0" class="key tap">LCTRL</text>
 </g>
 <g transform="translate(84, 196)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">KANA</text>
-<text x="0" y="24" class="key hold">LGUI</text>
+<text x="0" y="0" class="key tap">LGUI</text>
 </g>
 <g transform="translate(140, 196)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -872,13 +868,11 @@ path.combo {
 </g>
 <g transform="translate(28, 196)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">EISU</text>
-<text x="0" y="24" class="key hold">LCTRL</text>
+<text x="0" y="0" class="key tap">LCTRL</text>
 </g>
 <g transform="translate(84, 196)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">KANA</text>
-<text x="0" y="24" class="key hold">LGUI</text>
+<text x="0" y="0" class="key tap">LGUI</text>
 </g>
 <g transform="translate(140, 196)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -1093,13 +1087,11 @@ path.combo {
 </g>
 <g transform="translate(28, 196)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">EISU</text>
-<text x="0" y="24" class="key hold">LCTRL</text>
+<text x="0" y="0" class="key tap">LCTRL</text>
 </g>
 <g transform="translate(84, 196)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">KANA</text>
-<text x="0" y="24" class="key hold">LGUI</text>
+<text x="0" y="0" class="key tap">LGUI</text>
 </g>
 <g transform="translate(140, 196)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -1281,13 +1273,11 @@ path.combo {
 </g>
 <g transform="translate(28, 196)" class="key keypos-34">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">EISU</text>
-<text x="0" y="24" class="key hold">LCTRL</text>
+<text x="0" y="0" class="key tap">LCTRL</text>
 </g>
 <g transform="translate(84, 196)" class="key keypos-35">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">KANA</text>
-<text x="0" y="24" class="key hold">LGUI</text>
+<text x="0" y="0" class="key tap">LGUI</text>
 </g>
 <g transform="translate(140, 196)" class="key keypos-36">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>

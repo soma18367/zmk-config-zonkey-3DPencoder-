@@ -79,8 +79,8 @@ layers:
   - {t: '''', s: '"'}
   - {t: \, s: '~'}
   - ENTER
-  - {t: EISU, h: LCTRL}
-  - {t: KANA, h: LGUI}
+  - LCTRL
+  - LGUI
   - LEFT ALT
   - {t: MUHENKAN, h: '3'}
   - {t: SPACE, h: '2'}
@@ -123,8 +123,8 @@ layers:
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
-  - {t: EISU, h: LCTRL}
-  - {t: KANA, h: LGUI}
+  - LCTRL
+  - LGUI
   - LEFT ALT
   - {t: MUHENKAN, h: '3'}
   - {t: SPACE, h: '2', type: held}
@@ -167,8 +167,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: EISU, h: LCTRL}
-  - {t: KANA, h: LGUI}
+  - LCTRL
+  - LGUI
   - LEFT ALT
   - {t: MUHENKAN, h: '3', type: held}
   - {t: SPACE, h: '2'}
@@ -211,8 +211,8 @@ layers:
   - KP 2
   - KP 3
   - '='
-  - {t: EISU, h: LCTRL}
-  - {t: KANA, h: LGUI}
+  - LCTRL
+  - LGUI
   - LEFT ALT
   - {t: MUHENKAN, h: '3'}
   - {t: SPACE, h: '2'}
@@ -255,8 +255,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: EISU, h: LCTRL}
-  - {t: KANA, h: LGUI}
+  - LCTRL
+  - LGUI
   - LEFT ALT
   - {t: MUHENKAN, h: '3'}
   - {t: SPACE, h: '2'}
