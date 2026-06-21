@@ -38,9 +38,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT JP KANA, h: '3'}
+  - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: INT JP EISU, h: '1'}
+  - {t: INT MUHENKAN, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
@@ -82,9 +82,9 @@ layers:
   - {t: ESC, h: LCTL}
   - LEFT WIN
   - LEFT ALT
-  - {t: INT JP KANA, h: '3'}
+  - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: INT JP EISU, h: '1', type: held}
+  - {t: INT MUHENKAN, h: '1', type: held}
   - BACKSPACE
   - ENTER
   - DEL
@@ -126,9 +126,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT JP KANA, h: '3'}
+  - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2', type: held}
-  - {t: INT JP EISU, h: '1'}
+  - {t: INT MUHENKAN, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
@@ -170,9 +170,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT JP KANA, h: '3', type: held}
+  - {t: INT HENKAN, h: '3', type: held}
   - {t: SPACE, h: '2'}
-  - {t: INT JP EISU, h: '1'}
+  - {t: INT MUHENKAN, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
@@ -214,9 +214,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT JP KANA, h: '3'}
-  - {t: SPACE, h: '2'}
-  - {t: INT JP EISU, h: '1'}
+  - INT HENKAN
+  - SPACE
+  - INT MUHENKAN
   - BACKSPACE
   - ENTER
   - DEL
@@ -258,9 +258,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT JP KANA, h: '3'}
-  - {t: SPACE, h: '2'}
-  - {t: INT JP EISU, h: '1'}
+  - INT HENKAN
+  - SPACE
+  - INT MUHENKAN
   - BACKSPACE
   - ENTER
   - DEL
