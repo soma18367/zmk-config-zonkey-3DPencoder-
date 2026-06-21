@@ -35,8 +35,8 @@ layers:
   - ','
   - .
   - /
-  - {t: A, h: LCTRL}
-  - LEFT WIN
+  - {t: LANGUAGE 2, h: LCTRL}
+  - {t: LANGUAGE 1, h: LCTRL}
   - LEFT ALT
   - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2'}
