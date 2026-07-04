@@ -38,9 +38,9 @@ layers:
   - LEFT GUI
   - LEFT ALT
   - LEFT CONTROL
-  - {t: INT HENKAN, h: '3'}
+  - {t: CAPSLOCK, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: INT MUHENKAN, h: '1'}
+  - {t: TAB, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
