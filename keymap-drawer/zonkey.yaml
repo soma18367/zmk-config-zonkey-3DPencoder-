@@ -81,7 +81,7 @@ layers:
   - ENTER
   - LEFT GUI
   - LEFT ALT
-  - LEFT ALT
+  - LEFT CONTROL
   - {t: CAPSLOCK, h: '3'}
   - {t: SPACE, h: '2'}
   - {t: TAB, h: '1', type: held}
