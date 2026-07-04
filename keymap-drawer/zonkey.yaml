@@ -110,7 +110,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP ARROW
-  - {t: ▽, type: trans}
+  - UP ARROW
   - LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -121,7 +121,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT ARROW
-  - DOWN ARROW
+  - LEFT
   - RIGHT ARROW
   - LCTRL
   - LEFT WIN
@@ -131,7 +131,7 @@ layers:
   - {t: INT MUHENKAN, h: '1'}
   - BACKSPACE
   - ENTER
-  - DEL
+  - DOWN ARROW
   '3':
   - F1
   - F2
