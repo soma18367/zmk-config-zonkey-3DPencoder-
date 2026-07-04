@@ -109,7 +109,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - UP ARROW
+  - AC ZOOM IN
   - UP ARROW
   - LEFT SHIFT
   - {t: ▽, type: trans}
@@ -120,7 +120,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT ARROW
+  - AC ZOOM OUT
   - LEFT
   - RIGHT ARROW
   - LEFT GUI
