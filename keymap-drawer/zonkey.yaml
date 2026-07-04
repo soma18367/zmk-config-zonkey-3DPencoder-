@@ -79,8 +79,8 @@ layers:
   - {t: '''', s: '"'}
   - {t: \, s: '~'}
   - ENTER
-  - {t: ESC, h: LCTL}
-  - LEFT WIN
+  - LEFT GUI
+  - LEFT ALT
   - LEFT ALT
   - {t: CAPSLOCK, h: '3'}
   - {t: SPACE, h: '2'}
