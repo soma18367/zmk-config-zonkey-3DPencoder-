@@ -45,9 +45,9 @@ layers:
   - ENTER
   - DEL
   '1':
-  - CAPSLOCK
+  - ESCAPE
+  - '@'
   - '`'
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -82,9 +82,9 @@ layers:
   - {t: ESC, h: LCTL}
   - LEFT WIN
   - LEFT ALT
-  - {t: INT HENKAN, h: '3'}
+  - {t: CAPSLOCK, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: INT MUHENKAN, h: '1', type: held}
+  - {t: TAB, h: '1', type: held}
   - BACKSPACE
   - ENTER
   - DEL
