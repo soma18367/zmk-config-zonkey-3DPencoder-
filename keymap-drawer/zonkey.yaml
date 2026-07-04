@@ -123,9 +123,9 @@ layers:
   - LEFT ARROW
   - LEFT
   - RIGHT ARROW
-  - LCTRL
-  - LEFT WIN
+  - LEFT GUI
   - LEFT ALT
+  - LEFT CONTROL
   - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2', type: held}
   - {t: INT MUHENKAN, h: '1'}
