@@ -45,17 +45,17 @@ layers:
   - ENTER
   - DEL
   '1':
-  - ESCAPE
+  - '!'
   - '@'
-  - '`'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: '-', s: _}
-  - {t: '=', s: +}
-  - {t: INT3, s: Sft+0x89}
-  - TAB
+  - '#'
+  - $
+  - '%'
+  - ^
+  - '&'
+  - '*'
+  - (
+  - )
+  - ESCAPE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -65,8 +65,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
-  - ENTER
+  - INT YEN
+  - '`'
   - LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
