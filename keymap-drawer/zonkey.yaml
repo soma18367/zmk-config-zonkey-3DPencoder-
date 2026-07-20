@@ -61,7 +61,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LANGUAGE 2
+  - INTERNATIONAL 4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: '[', s: '{'}
@@ -74,11 +74,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LANGUAGE 1
+  - INTERNATIONAL 5
   - {t: ;, s: KP PLUS}
   - {t: '''', s: '"'}
   - {t: \, s: '~'}
-  - ENTER
+  - '?'
   - LEFT GUI
   - LEFT ALT
   - LEFT CONTROL
